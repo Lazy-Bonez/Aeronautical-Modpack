@@ -1,11 +1,11 @@
 mods/
 saves/
-/usernamecache.json
-/usercache.json
-/supportercache.json
-/ponders_watched.json
-/options.txt
-/command_history.txt
+usernamecache.json
+usercache.json
+supportercache.json
+ponders_watched.json
+options.txt
+command_history.txt
 logs/
 downloads/
 crash-reports/
