@@ -1,0 +1,286 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: {
+		id: "simulated:physics_assembler"
+	}
+	id: "0D6748337E04C85A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "aeronautics:adjustable_burner"
+			}
+			id: "77E33CA9D9F0AD94"
+			rewards: [
+				{
+					id: "60AE87842E0D4240"
+					item: {
+						count: 1
+						id: "create:wrench"
+					}
+					type: "item"
+				}
+				{
+					id: "1AB2BB440994B008"
+					item: {
+						count: 1
+						id: "aeronautics:aviators_goggles"
+					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				id: "138284E375B42360"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5983F1CF6B5F07D8"]
+			icon: {
+				id: "aeronautics:white_envelope"
+			}
+			id: "0E58E04C3FA89F9B"
+			rewards: [
+				{
+					id: "57BB6BFBF0ADFE80"
+					item: {
+						count: 1
+						id: "aeronautics:adjustable_burner"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "41350A32C965C337"
+					item: {
+						count: 1
+						id: "aeronautics:white_envelope"
+					}
+					type: "item"
+				}
+				{
+					id: "00AAA8D9DE0DB29A"
+					item: {
+						count: 1
+						id: "simulated:throttle_lever"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "29BD4AE67FFD33DD"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5983F1CF6B5F07D8"]
+			icon: {
+				id: "simulated:physics_assembler"
+			}
+			id: "4CFC84A9BEB5EFA9"
+			rewards: [
+				{
+					id: "0952CDE46E93D5C5"
+					item: {
+						count: 1
+						id: "simulated:physics_assembler"
+					}
+					type: "item"
+				}
+				{
+					id: "79416AD9BBD1276F"
+					item: {
+						count: 1
+						id: "simulated:honey_glue"
+					}
+					type: "item"
+				}
+				{
+					id: "22B01F0A65FB1888"
+					item: {
+						count: 1
+						id: "simulated:contraption_diagram"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7AC3E47BCAE30F66"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5983F1CF6B5F07D8"]
+			icon: {
+				id: "aeronautics:wooden_propeller"
+			}
+			id: "71655C5A3BD7D3F4"
+			rewards: [
+				{
+					id: "31BC8FC524D1D64F"
+					item: {
+						count: 1
+						id: "simulated:red_portable_engine"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3008B97A90CA6E66"
+					item: {
+						count: 1
+						id: "aeronautics:wooden_propeller"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2B4343685C0F0822"
+					item: {
+						count: 1
+						id: "create:gearbox"
+					}
+					type: "item"
+				}
+				{
+					id: "30B7761404E57753"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "220772AD3238ACDC"
+					item: {
+						count: 1
+						id: "create:clutch"
+					}
+					type: "item"
+				}
+				{
+					id: "511F689D5DE2A8D0"
+					item: {
+						count: 1
+						id: "minecraft:lever"
+					}
+					type: "item"
+				}
+				{
+					id: "1131409282B6E757"
+					item: {
+						count: 1
+						id: "create:hand_crank"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "16CD95481CA94551"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["77E33CA9D9F0AD94"]
+			id: "5E284B4CD2DF6114"
+			progression_mode: "linear"
+			tasks: [{
+				id: "532162CFB7C80FD4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6968FD4BAE263371"]
+			id: "5983F1CF6B5F07D8"
+			tasks: [{
+				id: "158C148B85FBB771"
+				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5E284B4CD2DF6114"]
+			id: "0611D7FBA633D07C"
+			rewards: [
+				{
+					count: 32
+					id: "3952662F00157F0A"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					type: "item"
+				}
+				{
+					count: 128
+					id: "793A135A0B7CA493"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "75E9E6836FE5B8ED"
+					item: { count: 1, id: "minecraft:stone_axe" }
+					type: "item"
+				}
+				{
+					id: "611AD898039157DB"
+					item: { count: 1, id: "minecraft:stone_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "7A68C945F57A5BDE"
+					item: { count: 1, id: "minecraft:stone_sword" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "419A6B7288EC8907"
+					item: { count: 1, id: "minecraft:bread" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0611D7FBA633D07C"]
+			id: "6968FD4BAE263371"
+			tasks: [
+				{
+					id: "7290B57FD152D2AB"
+					item: { count: 1, id: "minecraft:shield" }
+					type: "item"
+				}
+				{
+					id: "71FCD3FCC2A0202D"
+					item: { count: 1, id: "minecraft:iron_sword" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.5d
+		}
+	]
+}

@@ -1,0 +1,50 @@
+/locate biome minecraft:deep_cold_ocean
+/tp @s -1415 80 842
+/help
+/config showfile mr_angel_islands COMMON
+/locate biome minecraft:deep_cold_ocean
+/tp @s -65 34 -1086
+/function handcrafted_elytra:_settings
+/locate structure immersiveenchanting:ancient_library_desert
+/tp @s -1520 ~ -2208
+/time set day
+/gamerule doDaylightCycle
+/gamerule doDaylightCycle false
+/lods
+/lods strip_chunk
+/lods strip_chunks_around
+/lods locate_nearest_deposit diamond
+/tp @s 185 ~ -222
+/lods strip_chunks_around
+/advancement grant Lazy_Bonez_1337 everything
+/seed
+/gamemode creative
+/lods test_vein_here andesite
+/lods test_vein_here andesite 40
+/gamemode survival
+/gamemode creative
+/time set day
+/gamerule doDaylightCycle false
+/kill Lazy_Bonez_1337
+/gamemode spectator
+/gamemode survival
+/gamemode creative
+/gamemode spectator
+/gamemode survival
+/gamemode creative
+/
+/gamemode survival
+/gamemode creative
+/
+/gamemode spectator
+/gamemode creative
+/gamemode spectator
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/lods strip_chunks_around
+/lods dress_all_chunks

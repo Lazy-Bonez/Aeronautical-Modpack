@@ -1,0 +1,73 @@
+{
+	chapter.0D6748337E04C85A.title: "Welcome"
+	chapter.523AB760F7AF877C.title: "The Normal Part"
+	quest.0611D7FBA633D07C.quest_desc: [
+		"For now lets just get a small base setup, get a stash of tools, and get ready to do things. Exploration doesnt mean much if you don't have a place"
+		"to store your loot. Eventually you want that stash to be on a ship but until you have a factory setup your pretty limited on ship size."
+	]
+	quest.0611D7FBA633D07C.title: "Night 1 Shenanigans"
+	quest.0E58E04C3FA89F9B.quest_desc: [
+		"In order for a simulated contraption to control its altitude, you have three options."
+		""
+		"The first is propellers that pull the contraption into the air."
+		"The second is wings that cut through the air when the contraption is moving horizontally."
+		"The third, and more pertinent for early game, baloons."
+		""
+		"Hot Air Envelopes that form a hollow volume with an opening in the bottom create the basis for a hot air balloon."
+		"This provides lift by capturing hot air provided by a Hot Air Burner."
+	]
+	quest.0E58E04C3FA89F9B.quest_subtitle: "Falling in style"
+	quest.4CFC84A9BEB5EFA9.quest_desc: [
+		"The Physics Assembler gives life to freefalling contraptions that you can manipulate in many ways."
+		""
+		"Once physics has been infused into a block, you can continue to build off that block to expand the physics enabled platform."
+		"You can also infuse a glued group of blocks to speed things up a bit."
+		""
+		"Once infused, you don't need to keep the assembler on board, as its only purpose is to swap between infused and solid blocks."
+	]
+	quest.4CFC84A9BEB5EFA9.quest_subtitle: "Idealy this doesn't turn into a Geddan video"
+	quest.4CFC84A9BEB5EFA9.title: "Physics"
+	quest.5983F1CF6B5F07D8.quest_desc: ["OK last thing on the list before we get into the fun stuff. Most of your storage being at base means your gonna be making a lot of trips once you get the airship made, so this will help make those trips a bit more profitable."]
+	quest.5983F1CF6B5F07D8.title: "One Last Thing"
+	quest.5E284B4CD2DF6114.quest_desc: [
+		"Before we get started proper, theres a few things to note about this modpack."
+		""
+		"If you got a lucky spawn, then you should notice the sky islands dotted around the landscape. While these are not *strictly* necessary to explore, these are your only source of diamonds, as I've gone ahead and flipped the ore generation on certain ores, notably diamonds now ranging from y = 190 to the top of the world."
+		""
+		"This modpack features Immersive Enchanting, which reworks the enchanting mechanics to favor exploration over farming, just something to keep in mind."
+		""
+		"We also have Minecolonies for funsies, Pams Harvestcraft for food (and Cooking for Blockheads, I'm not evil) and Mekanism also for funsies, excluding those baby mobs because those are not funsies."
+		""
+		"Also also, the pack contains E4MC for P2P multiplayer, check the FAQ for some more info on that."
+	]
+	quest.6968FD4BAE263371.quest_desc: [
+		"Just another item gate, ngl."
+		"Make it though here and we'll actually get to modded stuff."
+		"Btw, still working on that base, right?"
+	]
+	quest.6968FD4BAE263371.title: "Acquire Hardware"
+	quest.71655C5A3BD7D3F4.quest_desc: [
+		"Until one of the rocket addons gets updated to work with Aeronatical, the only thing your getting for air propulsion are the propellers."
+		""
+		"The single props come in wood, andesite, and smart varients."
+		"Wood and Andesite are identical excluding style, and smart has one degree of freedom to keep itself oriented upwards."
+		""
+		"The Multiblock propellers are similar with the exception of only having 2 versions instead of 3."
+		"The normal propeller works like a windmill in that you have a hub and building around it with valid blocks increases its performance, but its rigid on its axis."
+		"The Gyroscopic Propeller works the same way but has 2 degrees of freedom to keep itself oriented upwards."
+	]
+	quest.71655C5A3BD7D3F4.quest_subtitle: "I'm givin' 'er all she's got captain!!"
+	quest.77E33CA9D9F0AD94.quest_desc: [
+		"This pack exists primarily to explore and play with airship exploration, so let's not pussyfoot around with Create mechanics we've been playing with for years."
+		""
+		"This chapter is close to the usual \"Night One\" chapter of modpacks, it'll guide through your first couple of nights and making a backpack before giving you the basics to make an airship."
+		""
+		"The next chapter will go through how to actually make them in case you need more or you want to make a bigger ship."
+	]
+	quest.77E33CA9D9F0AD94.quest_subtitle: "Real 'create'ive name I know"
+	quest.77E33CA9D9F0AD94.title: "Welcome to The Aeronautical Pack"
+	task.138284E375B42360.title: "Welcome to the Aero Pack"
+	task.16CD95481CA94551.title: "Propulsion"
+	task.29BD4AE67FFD33DD.title: "Lift"
+	task.532162CFB7C80FD4.title: "Some Important Info"
+}

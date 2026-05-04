@@ -1,0 +1,6 @@
+#Whether the no cooldown tool should be enabled (this is what allows the quick usage of seeds and hoes)
+no_cooldown_enabled = false
+#Whether the right click harvest tool should be enabled
+right_click_harvest = true
+#Whether the mod should be enabled on startup
+startup_enabled = true

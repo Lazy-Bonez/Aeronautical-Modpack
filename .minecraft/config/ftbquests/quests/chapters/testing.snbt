@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "testing"
+	group: ""
+	icon: {
+		id: "create:wrench"
+	}
+	id: "523AB760F7AF877C"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

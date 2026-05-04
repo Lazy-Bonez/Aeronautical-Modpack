@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:map"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecolonies:supplychestdeployer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecolonies:blockhutrabbithutch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecolonies:scan_analyzer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createaddition:electrum_spool"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createaddition:electric_motor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:white_envelope"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:elytra"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":{"minecraft:stored_enchantments":{"levels":{"elytra_enchants:skipping":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:wrench"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
